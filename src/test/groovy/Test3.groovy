@@ -9,6 +9,6 @@ class Test3 extends Specification{
         when:
              a = 1/0
         then:
-            thrown(FileNotFoundException)
+            thrown(RuntimeException)
     }
 }
