@@ -1,0 +1,2 @@
+# SpockSample
+Examples of Spock
